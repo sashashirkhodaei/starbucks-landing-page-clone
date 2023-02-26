@@ -72,3 +72,8 @@ nav {
     align-items: flex-start;
     padding: 10px 0;
 }
+
+.footer-extended {
+    padding: 50px 15% 10px;
+    border-top: 2px solid #eee;
+}
