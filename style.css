@@ -73,7 +73,14 @@ nav {
     padding: 10px 0;
 }
 
+/* footer extended */
+
 .footer-extended {
-    padding: 50px 15% 10px;
+    align-items: flex-start;
+    margin: 60px;
     border-top: 2px solid #eee;
+}
+
+.social-links {
+    padding-top: 30px;
 }
