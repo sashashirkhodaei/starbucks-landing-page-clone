@@ -1,10 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+
 nav {
     display:flex;
     align-items: center;
     justify-content: space-between;
+    margin:10px;
     padding:10px 0;
 }
-
 
 .sign-in , .join-now {
     border-radius:20px;
