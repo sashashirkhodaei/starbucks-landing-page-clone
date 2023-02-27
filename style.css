@@ -34,37 +34,26 @@ nav {
 
 /* features */
 
-.grid-container-1{
-    display: grid;
-    grid-template-columns: auto auto;
-    background-color: #fff;
-    padding: 10px;
-    margin:20px;
-  }
-  .grid-item-1{
-    background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid black;
-    font-size: 18px;
-    text-align: left;
-  }
-
   .grid-container{
     display: grid;
     grid-template-columns: auto auto;
     background-color: #fff;
     padding: 10px;
-    margin:20px;
+    margin:10px;
   }
 .grid-item{
-    border: 1px solid black;
     font-size: 18px;
-
   }
+
+.feature-1 {
+    background: #D4E8E2;
+}
 
 .feature-2 {
     background: #3D716F;
     color: #fff;
   }
+
 
 .feature-3 {
     background:#F4C5A1;
