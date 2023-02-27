@@ -38,17 +38,14 @@ nav {
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 30px 0px;
-    background-color: #fff;
     padding: 10px;
     margin:10px;
-  }
-
-.grid-item{
     font-size: 18px;
   }
 
 .feature-1 {
     background: #D4E8E2;
+    color:#1E3932;
 }
 
 .feature-2 {
@@ -58,10 +55,29 @@ nav {
 
 .feature-3 {
     background:#F4C5A1;
+    color: #1E3932;
   }
 
 .feature-4 {
     background: #8B323E;
+    color: #fff;
+}
+
+.button-1 , .button-2 {
+    border-radius:20px;
+    height:35px;
+    padding: 0 1rem;
+    background: transparent;
+    font-weight: 700;
+}
+
+.button-1 { 
+    border: 1px solid #1E3932;
+    color: #1E3932;
+}
+
+.button-2 { 
+    border: 1px solid  #fff;
     color: #fff;
 }
 
