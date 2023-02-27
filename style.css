@@ -65,6 +65,13 @@ nav {
     color: #fff;
 }
 
+/* Text */
+.text {
+    padding: 40px 420px 50px 420px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.5;
+}
 
 /* Footer */
 
